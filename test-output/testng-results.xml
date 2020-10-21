@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87009" started-at="2020-10-21T07:37:46 ICT" finished-at="2020-10-21T07:39:13 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87009" started-at="2020-10-21T07:37:46 ICT" finished-at="2020-10-21T07:39:13 ICT">
+      <class name="com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2897" started-at="2020-10-21T07:37:46 ICT" finished-at="2020-10-21T07:37:49 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="Google()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="Google" duration-ms="621" started-at="2020-10-21T07:37:49 ICT" finished-at="2020-10-21T07:37:50 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1066" started-at="2020-10-21T07:37:50 ICT" finished-at="2020-10-21T07:37:51 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2504" started-at="2020-10-21T07:37:51 ICT" finished-at="2020-10-21T07:37:53 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="GoogleEnghlish_ButtonOpenFirst()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="GoogleEnghlish_ButtonOpenFirst" duration-ms="1624" started-at="2020-10-21T07:37:53 ICT" finished-at="2020-10-21T07:37:55 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleEnghlish_ButtonOpenFirst -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1094" started-at="2020-10-21T07:37:55 ICT" finished-at="2020-10-21T07:37:56 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2478" started-at="2020-10-21T07:37:56 ICT" finished-at="2020-10-21T07:37:58 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="GoogleEnghlish_ButtonSearch()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="GoogleEnghlish_ButtonSearch" duration-ms="1515" started-at="2020-10-21T07:37:58 ICT" finished-at="2020-10-21T07:38:00 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleEnghlish_ButtonSearch -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1117" started-at="2020-10-21T07:38:00 ICT" finished-at="2020-10-21T07:38:01 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="1996" started-at="2020-10-21T07:38:01 ICT" finished-at="2020-10-21T07:38:03 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_ButtonLabel()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_ButtonLabel" duration-ms="1067" started-at="2020-10-21T07:38:03 ICT" finished-at="2020-10-21T07:38:04 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_ButtonLabel -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1128" started-at="2020-10-21T07:38:04 ICT" finished-at="2020-10-21T07:38:05 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2469" started-at="2020-10-21T07:38:05 ICT" finished-at="2020-10-21T07:38:08 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_ButtonName()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_ButtonName" duration-ms="1016" started-at="2020-10-21T07:38:08 ICT" finished-at="2020-10-21T07:38:09 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_ButtonName -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1079" started-at="2020-10-21T07:38:09 ICT" finished-at="2020-10-21T07:38:10 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2513" started-at="2020-10-21T07:38:10 ICT" finished-at="2020-10-21T07:38:12 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_ButtonOpenFirst_Class()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_ButtonOpenFirst_Class" duration-ms="953" started-at="2020-10-21T07:38:12 ICT" finished-at="2020-10-21T07:38:13 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_ButtonOpenFirst_Class -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1127" started-at="2020-10-21T07:38:13 ICT" finished-at="2020-10-21T07:38:14 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2508" started-at="2020-10-21T07:38:14 ICT" finished-at="2020-10-21T07:38:17 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_ButtonOpenFirst_Label()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_ButtonOpenFirst_Label" duration-ms="1144" started-at="2020-10-21T07:38:17 ICT" finished-at="2020-10-21T07:38:18 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_ButtonOpenFirst_Label -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1124" started-at="2020-10-21T07:38:18 ICT" finished-at="2020-10-21T07:38:19 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2500" started-at="2020-10-21T07:38:19 ICT" finished-at="2020-10-21T07:38:22 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_ButtonOpenFirst_Value()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_ButtonOpenFirst_Value" duration-ms="2569" started-at="2020-10-21T07:38:22 ICT" finished-at="2020-10-21T07:38:24 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_ButtonOpenFirst_Value -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1091" started-at="2020-10-21T07:38:24 ICT" finished-at="2020-10-21T07:38:25 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="1981" started-at="2020-10-21T07:38:25 ICT" finished-at="2020-10-21T07:38:27 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_Id()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_Id" duration-ms="2834" started-at="2020-10-21T07:38:27 ICT" finished-at="2020-10-21T07:38:30 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_Id -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1067" started-at="2020-10-21T07:38:30 ICT" finished-at="2020-10-21T07:38:31 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2531" started-at="2020-10-21T07:38:31 ICT" finished-at="2020-10-21T07:38:34 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_InvalidAttribute()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_InvalidAttribute" duration-ms="1155" started-at="2020-10-21T07:38:34 ICT" finished-at="2020-10-21T07:38:35 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_InvalidAttribute -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1082" started-at="2020-10-21T07:38:35 ICT" finished-at="2020-10-21T07:38:36 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2472" started-at="2020-10-21T07:38:36 ICT" finished-at="2020-10-21T07:38:38 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_class()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_class" duration-ms="1172" started-at="2020-10-21T07:38:38 ICT" finished-at="2020-10-21T07:38:40 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_class -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1073" started-at="2020-10-21T07:38:40 ICT" finished-at="2020-10-21T07:38:41 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2466" started-at="2020-10-21T07:38:41 ICT" finished-at="2020-10-21T07:38:43 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="getAttribute_value()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="getAttribute_value" duration-ms="1066" started-at="2020-10-21T07:38:43 ICT" finished-at="2020-10-21T07:38:44 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAttribute_value -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1098" started-at="2020-10-21T07:38:44 ICT" finished-at="2020-10-21T07:38:45 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2511" started-at="2020-10-21T07:38:45 ICT" finished-at="2020-10-21T07:38:48 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="searchGoogle(java.lang.String)[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="searchGoogle" duration-ms="2346" started-at="2020-10-21T07:38:48 ICT" data-provider="searchStrings" finished-at="2020-10-21T07:38:50 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jhonToan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1206" started-at="2020-10-21T07:38:50 ICT" finished-at="2020-10-21T07:38:51 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2503" started-at="2020-10-21T07:38:51 ICT" finished-at="2020-10-21T07:38:54 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="searchGoogle(java.lang.String)[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="searchGoogle" duration-ms="2083" started-at="2020-10-21T07:38:54 ICT" data-provider="searchStrings" finished-at="2020-10-21T07:38:56 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FPT]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1085" started-at="2020-10-21T07:38:56 ICT" finished-at="2020-10-21T07:38:57 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2476" started-at="2020-10-21T07:38:57 ICT" finished-at="2020-10-21T07:39:00 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="searchGoogleCharacters()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="searchGoogleCharacters" duration-ms="1554" started-at="2020-10-21T07:39:00 ICT" finished-at="2020-10-21T07:39:01 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogleCharacters -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1690" started-at="2020-10-21T07:39:01 ICT" finished-at="2020-10-21T07:39:03 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2553" started-at="2020-10-21T07:39:03 ICT" finished-at="2020-10-21T07:39:05 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="searchGoogleNumber()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="searchGoogleNumber" duration-ms="1911" started-at="2020-10-21T07:39:05 ICT" finished-at="2020-10-21T07:39:07 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogleNumber -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1086" started-at="2020-10-21T07:39:07 ICT" finished-at="2020-10-21T07:39:08 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="initDriver" is-config="true" duration-ms="2023" started-at="2020-10-21T07:39:08 ICT" finished-at="2020-10-21T07:39:10 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="searchGoogleSpecial()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="searchGoogleSpecial" duration-ms="1653" started-at="2020-10-21T07:39:10 ICT" finished-at="2020-10-21T07:39:12 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogleSpecial -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample@4df828d7]" name="quitDriver" is-config="true" duration-ms="1072" started-at="2020-10-21T07:39:12 ICT" finished-at="2020-10-21T07:39:13 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.javacodegeeks.testng.selenium.TestNGSeleniumBrowserCfgExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
